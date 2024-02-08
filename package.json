@@ -1,6 +1,7 @@
 {
-  "name": "my-project",
+  "name": "what-movies",
   "private": true,
+  "proxy" : "http://www.omdbapi.com",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
